@@ -1,0 +1,75 @@
+
+---- piece 1
+grande ourse
+petit lion
+-----piece 2
+lion
+------ piece 3
+hydre
+cancer
+------ piece 4
+Dragon
+Petite ourse
+------piece 5
+lynx
+gemeau
+petit chien
+------piece 6
+cassiopee
+cephee
+-------piece 7
+pegase
+triangle
+----piece 8
+persée
+girafe
+-------piece 9
+poissons
+baleine
+-------piece 10
+eridan
+------piece 11
+colomb
+lievre
+------piece 12
+chien
+poupe
+-------piece 13
+orion
+licorne
+--------piece 14
+cocher 
+taureau
+------
+
+
+
+
+
+1 baleine 
+2 cancer 
+3 cassiopee  
+4 cephee 
+5 chien 
+6 cocher 
+7 colomb 
+8 Dragon 
+9 eridan 
+10 gemeau   
+11 girafe 
+12 grande ourse
+13 hydre 
+14 licorne 
+15 lievre 
+16 lynx 
+17 orion 
+18 pegase 
+19 persée 
+20 Petite ourse
+21 poissons 
+22 poupe 
+23 taureau
+
+24 petit chien
+25 petit lion
+26 triangle

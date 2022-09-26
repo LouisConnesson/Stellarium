@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - test
+  - Planete
+  - dropzone
+  - Verif
+  - idConstellation
+  - SnapZone1
+  - SnapZone9
+  - SnapZone4
+  - SnapZone12
+  - SnapZone2
+  - SnapZone3
+  - SnapZone14
+  - SnapZone13
+  - SnapZone6
+  - SnapZone5
+  - SnapZone8
+  - SnapZone7
+  - SnapZone10
+  - SnapZone11
+  - winscene1
+  - S3_Card_Name
+  - S3_Star_Name
+  - S3_Valid
+  - Victory
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - post_camera
+  - Grab
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
